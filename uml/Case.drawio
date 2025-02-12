@@ -1,0 +1,9 @@
+<mxGraphModel dx="0" dy="0" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" background="none" math="0" shadow="0">
+  <root>
+    <mxCell id="0" />
+    <mxCell id="1" parent="0" />
+    <mxCell id="node0" parent="1" vertex="1" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Case&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;- bloc: Bloc&lt;br/&gt;- contenuBloc: ArrayList&amp;lt;Objet&amp;gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;/&gt;&lt;p style=&quot;margin:0 0 0 4px;line-height:1.6;&quot;&gt;+ ajouterObjet(Objet): void&lt;br/&gt;+ contient(Class&amp;lt;Objet&amp;gt;): boolean&lt;br/&gt;+ getBloc(): Bloc&lt;br/&gt;+ getContenuBloc(): ArrayList&amp;lt;Objet&amp;gt;&lt;br/&gt;+ isEmptyBloc(): boolean&lt;br/&gt;+ nombreObjet(): int&lt;br/&gt;+ peutContenirObjet(): boolean&lt;br/&gt;+ retirerObjet(Objet): void&lt;br/&gt;+ setBloc(Bloc): void&lt;br/&gt;+ toString(): String&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=14;fontFamily=Helvetica;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;">
+      <mxGeometry x="-45" y="-14" width="272" height="368" as="geometry" />
+    </mxCell>
+  </root>
+</mxGraphModel>
