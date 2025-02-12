@@ -1,7 +1,5 @@
 Implémentation des mécaniques de Minecraft
 
-Ce projet, réalisé dans le cadre du cours "Bases de la Programmation Orientée Objet" (BPO).
-
 L’objectif est de modéliser un monde cubique en 2D, où un joueur, appelé Steve, peut :
 - Se déplacer en respectant des contraintes de terrain et de gravité.
 - Miner des blocs en fonction des outils utilisés.
